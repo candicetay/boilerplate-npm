@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a starter description for FreeCodeCamp's API and Microservices Course",
+	"keywords": ["freecodecamp","api","microservices","nodejs","npm"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
