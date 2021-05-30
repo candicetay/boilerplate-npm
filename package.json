@@ -3,7 +3,8 @@
 	"description": "This is a starter description for FreeCodeCamp's API and Microservices Course",
 	"keywords": ["freecodecamp","api","microservices","nodejs","npm"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
