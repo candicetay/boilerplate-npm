@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Candice Tay"
+	"author": "Candice Tay",
+	"license": "MIT"
 }
