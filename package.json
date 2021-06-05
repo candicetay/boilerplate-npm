@@ -1,20 +1,26 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"description": "This is a starter description for FreeCodeCamp's API and Microservices Course",
-	"keywords": ["freecodecamp","api","microservices","nodejs","npm"],
-	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "~2.10.2"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	},
-	"author": "Candice Tay",
-	"license": "MIT",
-	"version": "1.2.0"
+  "name": "fcc-learn-npm-package-json",
+  "description": "This is a starter description for FreeCodeCamp's API and Microservices Course",
+  "keywords": [
+    "freecodecamp",
+    "api",
+    "microservices",
+    "nodejs",
+    "npm"
+  ],
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.10.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "author": "Candice Tay",
+  "license": "MIT",
+  "version": "1.2.0"
 }
